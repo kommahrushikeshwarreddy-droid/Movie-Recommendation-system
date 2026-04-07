@@ -1,0 +1,1 @@
+“A movie recommendation system is an intelligent tool that learns from your viewing history, ratings, and preferences to suggest films you’re likely to enjoy, filtering huge catalogs into personalized, relevant movie lists in real time.”
